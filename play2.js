@@ -13,7 +13,7 @@ function muestraPorConsola_v2(mensaje) {
     console.log(mensaje)
 }
 
-muestraPorConsola("Lo que yo ponga aquí, es lo que se va a mostrar por consola!")
+muestraPorConsola_v2("Lo que yo ponga aquí, es lo que se va a mostrar por consola!")
 
 //Las funciones pueden tener más de un parámetro. Por ejemplo, la siguiente función "suma" tiene 2. Lo que hace es sumar el valor de dichos parámetros y los muestra por consola
 

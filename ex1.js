@@ -5,5 +5,5 @@
  function muestraGato() {
     console.log("Gato!")
  }
-
+muestraGato();
  // Aquí tú código
